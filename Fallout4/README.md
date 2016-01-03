@@ -32,3 +32,6 @@ This is a simple profile that binds V.A.T.S. to mouse 4 and Activate to mouse 5,
 
 With a report rate of 1000 per second.
 
+##Lua script 
+This is included inline with the profile but is broken out seperately incase it's useful to people.
+
